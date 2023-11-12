@@ -80,6 +80,12 @@ params:
       
       - *Zeauw explores an unknown world*
 
+      - 注：本站文章默认未经许可请勿转载（就这垃圾文章有什么转载的必要）
+
+      - 若对网站有建议欢迎发邮件反馈
+      
+      - 友情链接：[LaplacianSpell](https://laplacianspell.github.io/)
+
   socialIcons:
     - name: github
       url: "https://github.com/Zeauw-cn"
@@ -99,8 +105,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   # editPost:
-    # URL: "https://github.com/<path_to_repo>/content"
-    # Text: "Suggest Changes" # edit text
+    # URL: "https://github.com/Zeauw-cn/Zeauw-cn.github.io/tree/main/content"
+    # Text: "对内容的建议" # edit text
     # appendFilePath: true # to append file path to Edit link
 
   # for search
