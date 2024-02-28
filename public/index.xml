@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zeauw&#39;s home</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Zeauw&#39;s home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 06 Nov 2023 17:35:59 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一条</title>
+      <link>http://localhost:1313/posts/20231106-my-first-post/</link>
+      <pubDate>Mon, 06 Nov 2023 17:35:59 +0800</pubDate>
+      <guid>http://localhost:1313/posts/20231106-my-first-post/</guid>
+      <description>这里没有什么，除了分享一些无聊的记录。如果你是不小心点进来的，那么你可以看看这些无聊的东西，或者是直接退出。</description>
+    </item>
+  </channel>
+</rss>
