@@ -80,7 +80,7 @@ params:
       
       - *Zeauw explores an unknown world*
 
-      - 注：本站文章默认未经许可请勿转载（就这垃圾文章有什么转载的必要）
+      - 注：本站文章默认未经许可请勿转载（这些文章似乎也没有转载的必要）
 
       - 若对网站有建议欢迎发邮件反馈
       
@@ -88,9 +88,9 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/Zeauw-cn"
+      url: "https://github.com/zeauw"
     - name: email
-      url: "mailto:Zeauw@outlook.com"
+      url: "mailto:me@zeauw.dev"
   # analytics:
     # google:
       # SiteVerificationTag: "XYZabc"
@@ -104,10 +104,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  # editPost:
-    # URL: "https://github.com/Zeauw-cn/Zeauw-cn.github.io/tree/main/content"
-    # Text: "对内容的建议" # edit text
-    # appendFilePath: true # to append file path to Edit link
+  editPost:
+    URL: "https://github.com/Zeauw-cn/Zeauw-cn.github.io/tree/main/content"
+    Text: "对内容的建议" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
